@@ -89,6 +89,9 @@ Potential improvements include:
 
 ---
 
+## Screenshots / Demo
+https://github.com/IBL11/Meta-Ad-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+
 ## 👤 Author
 
 **Bhagya N L I**  
