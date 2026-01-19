@@ -1,4 +1,3 @@
-# Meta-Ad-Performance-Dashboard
 # Meta Ad Performance Analytics Dashboard (Power BI)
 
 A production-ready **Power BI analytics solution** designed for in-depth analysis of Meta (Facebook and Instagram) advertising performance. This project transforms raw advertising data into structured, interactive, and actionable business insights to support strategic marketing decision-making.
@@ -7,7 +6,7 @@ A production-ready **Power BI analytics solution** designed for in-depth analysi
 
 ## 📌 Overview
 
-This Power BI template (`Meta_Ad_Performance.pbit`) serves as a comprehensive business intelligence tool for evaluating digital advertising effectiveness. It enables users to monitor key performance indicators (KPIs), identify trends, and optimize campaign performance through data-driven analysis.
+This Power BI template [`Meta_Ad_Performance.pbit`]( serves as a comprehensive business intelligence tool for evaluating digital advertising effectiveness. It enables users to monitor key performance indicators (KPIs), identify trends, and optimize campaign performance through data-driven analysis.
 
 The dashboard follows professional BI design principles, ensuring clarity, usability, and analytical depth for marketing teams, analysts, and stakeholders.
 
