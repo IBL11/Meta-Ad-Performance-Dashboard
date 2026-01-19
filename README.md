@@ -34,7 +34,6 @@ The dashboard delivers insights across multiple dimensions, including:
 - **Click-Through Rate (CTR)** – ad effectiveness evaluation  
 - **Cost Per Click (CPC)** – advertising efficiency assessment  
 - **Conversions & Attribution** – performance tracking  
-- **Spend Analysis** – budget utilization and ROI evaluation  
 
 ### 📈 Campaign Intelligence
 Users can analyze performance at different levels:
@@ -58,17 +57,17 @@ Built-in interactivity allows users to:
 
 | Component | Description |
 |-----------|-------------|
-| **File Name** | `Meta_Ad_Performance.pbit` |
+| **File Name** | [`Meta_Ad_Performance.pbit`](https://github.com/IBL11/Meta-Ad-Performance-Dashboard/blob/main/Meta_Ad_Performance.pbit) |
 | **Format** | Power BI Template |
 | **Analytics Type** | Business Intelligence & Marketing Analytics |
-| **Use Case** | Performance reporting, optimization, and decision support |
+| **Dataset** | [Download Dataset](https://github.com/IBL11/Meta-Ad-Performance-Dashboard/tree/main/Dataset) |
 | **Designed For** | Marketers, Data Analysts, BI Professionals |
 
 ---
 
 ## 🚀 Usage Instructions
 
-1. Download the `Meta_Ad_Performance.pbit` file  
+1. Download the [`Meta_Ad_Performance.pbit`](https://github.com/IBL11/Meta-Ad-Performance-Dashboard/blob/main/Meta_Ad_Performance.pbit) file  
 2. Open in **Microsoft Power BI Desktop**  
 3. Connect to your **Meta Ads dataset** (CSV, Excel, or API output)  
 4. Refresh data to populate visuals  
@@ -93,6 +92,6 @@ Potential improvements include:
 
 ## 👤 Author
 
-**Bhagya N L I**  
-Business Intelligence & Data Analytics Practitioner  
+**Indumini Bhagya Liyanage**  
+Undergraduate Student 
 
